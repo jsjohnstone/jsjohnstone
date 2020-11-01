@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Jamie, a cloud engineer ⚡️. Made in Auckland, New Zealand 🇳🇿. Based in London, United Kingdom 🇬🇧.
+
 <!--
 **jsjohnstone/jsjohnstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
