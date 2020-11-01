@@ -6,7 +6,7 @@ I'm Jamie, a **cloud engineer** ☁️ - made in **New Zealand** 🇳🇿, based
 
 🌱 **Things I'm getting better at:** Java, Frontend (HTML/CSS/JS/React)
 
-❤️ **Things I love:** Learning about new technologies 📚, Live Events 🎟, Rowing 🚣‍♀️
+❤️ **Things I love:** Hacking something together after learning about a new technology 📚, Live Events 🎟, Rowing 🚣‍♀️
 
 🔍 **Things I'm looking for:** Projects that improve the day-to-day life of real people
 
