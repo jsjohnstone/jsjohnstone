@@ -2,7 +2,7 @@
 
 I'm **Jamie**, a **cloud engineer** ☁️, made in **New Zealand** 🇳🇿, at home in the **United Kingdom** 🇬🇧.
 
-⚡️ **Things I'm good at:** Python, SRE, AWS/Cloud Platforms, Automation/Pipelines, Infrastructure as Code, Product Management/UX 
+⚡️ **Things I'm good at:** Python, SRE, AWS/Cloud Platforms, Automation/Pipelines, Infrastructure as Code, Product/UX 
 
 🌱 **Things I'm getting better at:** Java, Frontend (HTML/CSS/JS/React)
 
