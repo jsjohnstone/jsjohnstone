@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Jamie**, a **cloud engineer** ☁️, made in **New Zealand** 🥝, at home in the **London** 💂.
+I'm **Jamie**, a **cloud engineer** ☁️ made in **New Zealand** 🥝 at home in **London** 💂.
 
 ⚡️ **Things I'm good at:** Python, SRE, AWS/Cloud Platforms, Automation/Pipelines, Infrastructure as Code, Product/UX 
 
