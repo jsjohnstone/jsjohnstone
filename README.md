@@ -1,3 +1,5 @@
+![Jamie saying hi](website_header.png)
+
 ### Hi there 👋
 
 I'm **Jamie** - made in **New Zealand** 🥝, at home in **London** 💂.
